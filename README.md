@@ -23,3 +23,25 @@ Run
 
 chmod +x run.command
 ./run.command
+
+to Run it: 
+download the zip file
+
+After Downloading ZIP
+
+Run once in terminal:
+
+chmod +x build.command
+chmod +x run.command
+
+Then:
+
+double-click build.command
+
+Result:
+
+dist/JarvisAssistant.jar
+
+Run:
+
+double-click run.command
